@@ -1,6 +1,6 @@
 # TNE Wiki
 
-[TNE](tne.md)
+[TNE]()
 
   * # Wiki
   * [Main](tne.md)
